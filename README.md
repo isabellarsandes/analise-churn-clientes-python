@@ -2,9 +2,9 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto tem como objetivo analisar o comportamento de cancelamento de clientes em uma empresa fictícia do segmento de serviços por assinatura.
+Este projeto simula um cenário real de negócio em uma empresa fictícia do segmento de serviços por assinatura, cujo objetivo é compreender os fatores que influenciam o cancelamento de clientes e apoiar a definição de estratégias de retenção.
 
-Utilizando técnicas de análise exploratória de dados em Python, o estudo busca identificar padrões associados ao churn e propor ações estratégicas para redução da taxa de cancelamento.
+Por meio de técnicas de análise exploratória de dados em Python, o estudo busca identificar padrões associados ao churn e gerar insights que contribuam para a redução da taxa de cancelamento.
 
 ---
 
